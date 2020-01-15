@@ -1,0 +1,5 @@
+{
+  "name":"GPS Time","type":"app",
+  "icon":"*gpstime",
+  "src":"-gpstime"
+}
